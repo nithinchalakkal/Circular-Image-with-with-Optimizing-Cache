@@ -1,0 +1,2 @@
+# Circular-Image-with-with-Optimizing-Cache
+One of the most common task was to create Circular Image View. Whenever i get a new project, there is a screen where you have to implement Circular Image View. Either it will be in profile screen or within some listing. Today we will see what are the different ways to create Circular Image View in Android. There are lot many libraries to customize your Image View and make it rounded. Here the Android function for  creating Image view and optimizing the cache .
